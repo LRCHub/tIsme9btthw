@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Dan...",
+  "base_artist": "Sheila On 7",
+  "createdAt": "2026-03-14T18:35:21.327456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "San Francisco Blues (feat. Dan Tyminski)",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/01_San_Francisco_Blues_(feat._Dan_Tyminski)_Molly_Tuttle.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Little Girl (feat. Alison Krauss & Dan Tyminski) (LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/02_The_Little_Girl_(feat._Alison_Krauss_&_Dan_Tyminski)_(LP_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nå Om Da'n",
+      "artist": "Gatas Parlament",
+      "has_synced": false,
+      "path": "select/03_Nå_Om_Da'n_Gatas_Parlament.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Of A Kind (prod. E. Dan)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/04_One_Of_A_Kind_(prod._E._Dan)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cash Flow (Feat. Jah Dan)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/05_Cash_Flow_(Feat._Jah_Dan)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cowboy Dan",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/06_Cowboy_Dan_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dan the Dancer",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/07_Dan_the_Dancer_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La Lune (feat. Dan Smith)",
+      "artist": "Madeon feat. Dan Smith",
+      "has_synced": true,
+      "path": "select/08_La_Lune_(feat._Dan_Smith)_Madeon_feat._Dan_Smith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Song for Dan Treacy",
+      "artist": "MGMT",
+      "has_synced": true,
+      "path": "select/09_Song_for_Dan_Treacy_MGMT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fwmd (feat. Global Dan)",
+      "artist": "Oliver Francis",
+      "has_synced": false,
+      "path": "select/10_Fwmd_(feat._Global_Dan)_Oliver_Francis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dan Abnormal",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/11_Dan_Abnormal_Blur.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dan y Dwr",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/12_Dan_y_Dwr_Enya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burn My Shadow (Dan F Remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/13_Burn_My_Shadow_(Dan_F_Remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Just Keep Walking (feat. Dan Sultan)",
+      "artist": "INXS",
+      "has_synced": false,
+      "path": "select/14_Just_Keep_Walking_(feat._Dan_Sultan)_INXS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Brother (Feat. Dan Tyminski)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/15_Hey_Brother_(Feat._Dan_Tyminski)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Check the Dan",
+      "artist": "Leila K",
+      "has_synced": false,
+      "path": "select/16_Check_the_Dan_Leila_K.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chicago (DJ Dan & Terry Mullan Bonorella dub)",
+      "artist": "Groove Armada",
+      "has_synced": false,
+      "path": "select/17_Chicago_(DJ_Dan_&_Terry_Mullan_Bonorella_dub)_Groove_Armada.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dan...",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/pl_01_Dan..._Sheila_On_7.txt"
+    }
+  ]
+}
