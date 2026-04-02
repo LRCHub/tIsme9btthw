@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Dan...",
   "base_artist": "Sheila On 7",
-  "createdAt": "2026-03-14T18:35:21.327456Z",
+  "createdAt": "2026-04-02T16:39:27.383045Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,6 +147,15 @@
       "artist": "Sheila On 7",
       "has_synced": false,
       "path": "select/pl_01_Dan..._Sheila_On_7.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Dan...",
+      "artist": "Sheila On 7",
+      "has_synced": false,
+      "path": "select/localdb_01_Dan..._Sheila_On_7.txt",
+      "repo_name": "dGcGbF4ex5o"
     }
   ]
 }
